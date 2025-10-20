@@ -36,7 +36,7 @@ activities:
 # ============================================================================
 # INSTRUCTIONS - Role and Capabilities
 # ============================================================================
-# Context for Goose AI - explains the role and key capabilities
+# explains the role and key capabilities
 
 instructions: |
   You are a Test Coverage Optimization Specialist that helps development teams
